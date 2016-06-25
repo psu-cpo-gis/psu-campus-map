@@ -11,3 +11,37 @@ npm-debug.log
 /client/bower_components
 /campusmap.v12.suo
 Thumbs.db
+
+
+# yeoman files
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+
+# sass files
+.sass-cache/
+*.css.map
+
+# bootstrap-sass files
+*.gem
+.sass-cache
+bootstrap.css
+bootstrap-responsive.css
+Gemfile.lock
+*.gemfile.lock
+.rvmrc
+.rbenv-version
+
+# Ignore bundler config
+/.bundle
+/vendor/cache
+/vendor/bundle
+tmp/
+test/screenshots/
+test/dummy_rails/log/*.log
+test/dummy_rails/public/assets/
+.DS_Store
+node_modules
