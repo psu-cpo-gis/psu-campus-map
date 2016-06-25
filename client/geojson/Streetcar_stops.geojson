@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "STATION": "SW Mill & Park", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=10766" }, "geometry": { "type": "Point", "coordinates": [ -122.68456858799999, 45.513059621000025 ] } },
+{ "type": "Feature", "properties": { "STATION": "PSU Urban Center", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=10764" }, "geometry": { "type": "Point", "coordinates": [ -122.68209361499999, 45.51222593500006 ] } },
+{ "type": "Feature", "properties": { "STATION": "SW Harrison & 3rd", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=12382" }, "geometry": { "type": "Point", "coordinates": [ -122.67961194199995, 45.510212424000031 ] } },
+{ "type": "Feature", "properties": { "STATION": "SW Moody & Meade South", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=13601" }, "geometry": { "type": "Point", "coordinates": [ -122.67277395199994, 45.50307784000006 ] } },
+{ "type": "Feature", "properties": { "STATION": "SW Harrison & 3rd", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=12375" }, "geometry": { "type": "Point", "coordinates": [ -122.67982728299995, 45.510286622000081 ] } },
+{ "type": "Feature", "properties": { "STATION": "SW Moody & Meade North", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=13602" }, "geometry": { "type": "Point", "coordinates": [ -122.67275648399999, 45.503309669000032 ] } },
+{ "type": "Feature", "properties": { "STATION": "SW 5th & Montgomery", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=10763" }, "geometry": { "type": "Point", "coordinates": [ -122.68142575499996, 45.51160208400006 ] } },
+{ "type": "Feature", "properties": { "STATION": "SW Market & 5th", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=10762" }, "geometry": { "type": "Point", "coordinates": [ -122.68097715899995, 45.512927569000055 ] } },
+{ "type": "Feature", "properties": { "STATION": "SW Market & Park", "STATUS": "Existing", "TYPE": "Street Car", "LINE": "Portland Street Car NS Line", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=11011" }, "geometry": { "type": "Point", "coordinates": [ -122.68392753199998, 45.513709462000065 ] } }
+]
+}

@@ -1,0 +1,13 @@
+node_modules
+.tmp
+.sass-cache
+
+.DS_Store
+npm-debug.log
+/preview/preview.zip
+/oham-mobile.v12.suo
+
+/dist
+/client/bower_components
+/campusmap.v12.suo
+Thumbs.db

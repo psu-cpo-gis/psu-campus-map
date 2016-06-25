@@ -1,0 +1,16 @@
+﻿<div class="popup-content">
+    <div>
+        <h3>{{searchResult.department}}</h3>
+    </div>
+
+    <div>
+        <div>
+            {{searchResult.buildingName}} Room {{searchResult.room}}
+        </div>
+    </div>
+    <br/>
+    <button type="button" class="btn btn-metro btn-primary" ng-click="togglePopupShare($event)" ng-if="false">
+        <img src="/map-icons/ic_share_24px.svg" />
+    </button>
+</div>
+

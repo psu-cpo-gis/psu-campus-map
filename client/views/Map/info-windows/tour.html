@@ -1,0 +1,23 @@
+<div class="popup-content">
+    <div>
+        <h3>{{feature.getProperty('Name')}}</h3>
+    </div>
+
+    <div>
+        <div>
+            {{feature.getProperty('Address')}}
+        </div>
+        <br />
+        <div ng-if="config.isMobile">
+            {{feature.getProperty('Description')}}
+        </div>
+        <div ng-if="!config.isMobile">
+            {{feature.getProperty('Description') | cut:'.':' ...'}}
+            <div ng-click="showTextModal(feature.getProperty('Name'), feature.getProperty('Description'))">More...</div>
+        </div>
+    </div>
+    <br />
+    <button type="button" class="btn btn-metro btn-primary" ng-click="togglePopupShare($event)" ng-if="false">
+        <img src="/map-icons/ic_share_24px.svg" />
+    </button>
+</div>

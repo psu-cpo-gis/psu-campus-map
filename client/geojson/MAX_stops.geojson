@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "STATION": "PSU Urban Center\/SW 6th and Montgomery", "STATUS": "Existing", "TYPE": "MAX", "LINE": "Green, Yellow MAX Lines", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=7774" }, "geometry": { "type": "Point", "coordinates": [ -122.68274644499996, 45.511352527000042 ] } },
+{ "type": "Feature", "properties": { "STATION": "PSU Urban Center\/SW 5th and Mill", "STATUS": "Existing", "TYPE": "MAX", "LINE": "Green, Yellow MAX Lines", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=7618" }, "geometry": { "type": "Point", "coordinates": [ -122.68147359399995, 45.511745414000075 ] } },
+{ "type": "Feature", "properties": { "STATION": "South Waterfront\/SW Moody Ave", "STATUS": "Under construction", "TYPE": "MAX", "LINE": "Portland-Milwaukie Light Rail", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=13711" }, "geometry": { "type": "Point", "coordinates": [ -122.67131188399998, 45.502724759000046 ] } },
+{ "type": "Feature", "properties": { "STATION": "Lincoln\/SW 3rd Ave", "STATUS": "Under construction", "TYPE": "MAX", "LINE": "Portland-Milwaukie Light Rail", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=13710" }, "geometry": { "type": "Point", "coordinates": [ -122.68054056399995, 45.507926374000078 ] } },
+{ "type": "Feature", "properties": { "STATION": "PSU South\/SW 5th and Jackson", "STATUS": "Existing", "TYPE": "MAX", "LINE": "Green, Yellow MAX Lines", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=7606" }, "geometry": { "type": "Point", "coordinates": [ -122.68300186399995, 45.508978944000035 ] } },
+{ "type": "Feature", "properties": { "STATION": "PSU South\/SW 6th and College", "STATUS": "Existing", "TYPE": "MAX", "LINE": "Green, Yellow MAX Lines", "URL": "http:\/\/trimet.org\/arrivals\/popup_tracker?locids=10293" }, "geometry": { "type": "Point", "coordinates": [ -122.68365133899999, 45.509632901000032 ] } }
+]
+}

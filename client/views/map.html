@@ -1,0 +1,66 @@
+<div class="page-map" data-ng-controller="mapCtrl" id="mapPage" ng-cloak>
+    <div ng-include="'views/Map/share.html'">
+    </div>
+
+    <div class="map-header no-print">
+        <div id="search-area">
+            <input type="text"
+                   ng-model="selectedSearchValue"
+                   typeahead="field as field.text for field in searchFields | filter:$viewValue | limitTo:8"
+                   typeahead-editable="false"
+                   typeahead-on-select="onSelectSearch($item, $model, $label)"
+                   class="form-control"
+                   placeholder="Search">
+        </div>
+        Campus Map
+    </div>
+    
+    <div id="map-tab">
+        <div class="map-menu btn-group btn-group-vertical btn-group-lg no-print">
+            <div ng-repeat="l in layers" ng-if="l.inMenu && l.parent == null">
+                <button type="button" class="btn {{l.buttonClass}} btn-metro" ng-class="getMenuButtonClass(l)" ng-click="toggleLayer(l)">
+                    <img src="/map-icons/{{l.icon}}"/>
+                    <span>{{l.label}}</span>
+                </button>
+                <div class="menu-expander" ng-if="l.isExpander" ng-show="l.visible">
+                    <button ng-repeat="c in getChildMenus(l)" ng-if="c.inMenu" href="#" type="button" class="btn {{c.buttonClass}} btn-metro" ng-class="getMenuButtonClass(c)" ng-click="toggleLayer(c)">
+                        <img src="/map-icons/{{c.icon}}"/>
+                        <span>{{c.label}}</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div id="home-button-panel" ng-class="config.isMobile ? 'mobile' : ''">
+            <button type="button" class="btn btn-metro btn-primary" ng-click="goHome()">
+                <i class="glyphicon glyphicon-home "></i>
+            </button>
+        </div>
+        <div id="share-button-panel" ng-class="config.isMobile ? 'mobile' : ''">
+            <button type="button" class="btn btn-metro btn-primary" ng-click="toggleMapShare($event)">
+                <img src="/map-icons/ic_share_24px.svg" />
+            </button>
+        </div>
+        <div id="print-button-panel" ng-if="!config.isMobile">
+            <button type="button" class="btn btn-metro btn-primary" ng-click="printPreview()">
+                <img src="/map-icons/print_shop.svg"/>
+            </button>
+        </div>
+
+        <div id="gpsButton" ng-if="config.isMobile" ng-click="toggleGps()" ng-class="config.isMobile ? 'gps-button gps-on mobile' : 'gps-button gps-on'">
+            <span ng-if="!gpsToken" class="oham-gps2 gps-off"></span>
+            <span ng-if="gpsToken" class="oham-gps2 gps-on"></span>
+        </div>
+        
+        <div id="basemapButton" ng-click="toggleBasemap()" ng-class="config.isMobile ? 'mobile' : ''">
+            <i ng-if="basemap == 'satellite'" class="glyphicon glyphicon-road"></i>
+            <i ng-if="basemap == 'road'" class="glyphicon glyphicon-globe "></i>
+        </div>
+
+
+        <div id="map" class="ui-map"></div>
+
+    </div>
+    
+    <span us-spinner ng-show="showSpinner"></span>
+</div>

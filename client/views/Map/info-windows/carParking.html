@@ -1,0 +1,31 @@
+<div class="popup-content">
+    <div>
+        <h3>{{feature.getProperty('PARKING_LOCATION')}}</h3>
+    </div>
+
+    <div>
+        <div>
+            {{feature.getProperty('ADDRESS')}}
+        </div>
+        <br />
+        <div>
+            <b>Hourly Spaces:</b>
+            {{feature.getProperty('HOURLY_SPACES')}}
+        </div>
+        <div>
+            <b>Permit Spaces:</b>
+            {{feature.getProperty('PERMIT_SPACES')}}
+        </div>
+        <div>
+            <b>Accessible Spaces:</b>
+            {{feature.getProperty('ACCESSIBLE_SPACES')}}
+        </div>
+        <div>
+            <a target='_blank' href="{{feature.getProperty('URL')}}"><u>More Info</u></a>
+        </div>
+    </div>
+    <br />
+    <button type="button" class="btn btn-metro btn-primary" ng-click="togglePopupShare($event)" ng-if="false">
+        <img src="/map-icons/ic_share_24px.svg" />
+    </button>
+</div>

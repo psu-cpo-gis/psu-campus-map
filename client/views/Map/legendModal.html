@@ -1,0 +1,54 @@
+﻿<div class="modal-header">
+    <h3>Legend</h3>
+</div>
+<div class="modal-body">
+    <div>
+        <ul ng-if="mapType == 'hunting'">
+            <li>
+                <img src="/images/assets/map-icons/ODFW-welcome-icon.png" />
+                Welcome to Hunt
+            </li>
+            <li>
+                <img src="/images/assets/map-icons/ODFW_yellow_icon.png" />
+                Hunting By Permission
+            </li>
+            <li>
+                <img src="/images/assets/map-icons/ODFW_blue_icon.png" />
+                ODFW Offices
+            </li>
+            <li>
+                <img src="/images/assets/legend/accessareas.png" class="thirtyPercentOpacity" />
+                Hunting Access Areas
+            </li>
+        </ul>
+        <ul ng-if="mapType == 'shooting'">
+            <li>
+                <img src="/images/assets/map-icons/ShootingRangeBlue.png" />
+                Archery Only
+            </li>            
+            <li>
+                <img src="/images/assets/map-icons/ShootingRangeOrange.png" />
+                Multiple Opportunities
+            </li>
+            <li>
+                <img src="/images/assets/map-icons/ShootingRangePurple.png" />
+                Shotgun Only
+            </li>
+        </ul>
+    </div>
+
+    <div ng-repeat="item in layers" class="list-unstyled">
+        <div ng-if="item.isOn">
+            <h3>{{item.label}}</h3>
+            <ul>
+                <li ng-repeat="i in item.legendImages">
+                    <img src="/images/assets/legend/{{i.image}}" /> {{i.name}}
+                </li>
+            </ul>
+        </div>
+    </div>
+    <br>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-primary" ng-click="ok()">Close</button>
+</div>

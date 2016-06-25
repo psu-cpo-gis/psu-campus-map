@@ -1,0 +1,14 @@
+﻿<div class="modal-header">
+    <h3>Layers</h3>
+</div>
+<div class="modal-body">
+    <span ng-repeat="item in layers" class="list-unstyled">
+        <div>
+            <label class="check">{{item.label}} <input type="checkbox" ng-checked="item.isOn" ng-click="onChange(item)"><i></i></label>
+        </div>
+    </span>
+    <br>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-primary" ng-click="ok()">Close</button>
+</div>

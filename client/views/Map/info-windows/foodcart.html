@@ -1,0 +1,12 @@
+﻿<div class="popup-content">
+    <div>
+        <h3>{{feature.getProperty('Name')}}</h3>
+    </div>
+    <div>
+        <img src="{{feature.getProperty('Photo')}}" style="width: 200px;" />
+    </div>
+    <br />
+    <button type="button" class="btn btn-metro btn-primary" ng-click="togglePopupShare($event)" ng-if="false">
+        <img src="/map-icons/ic_share_24px.svg" />
+    </button>
+</div>

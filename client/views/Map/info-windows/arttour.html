@@ -1,0 +1,26 @@
+﻿<div class="popup-content">
+    <div>
+        <h3>{{feature.getProperty('Name')}}</h3>
+    </div>
+
+    <div>
+	
+		<div>
+            <b>Artist</b>: {{feature.getProperty('Artist')}}
+        </div>
+        
+		<div>
+            <b>Year</b>: {{feature.getProperty('Year_Created')}}
+        </div>
+
+		<img src='{{feature.getProperty("URL")}}' style='width: 198px;'>
+        <br />
+        <div ng-if="config.isMobile">
+            {{feature.getProperty('Description')}}
+        </div>
+        <div ng-if="!config.isMobile">
+            {{feature.getProperty('Description') | cut:'.':' ...'}}
+            <a href="javascript:;" ng-click="showTextModal(feature.getProperty('Name'), feature.getProperty('Description'))">More...</a>
+        </div>
+    </div>
+</div>

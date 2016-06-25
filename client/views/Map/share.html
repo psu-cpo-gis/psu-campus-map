@@ -1,0 +1,23 @@
+<div class="share-panel" ng-show="showMapShare" ng-style="sharePanelStyle" style='padding-top:3px;padding-left:4px'>
+    <table>
+        <tr>
+            <td>
+                Share
+            </td>
+            <td style='padding-right:5px;padding-top:13px'>
+                <img src="/map-icons/ic_share_24px-black.svg" />&nbsp;&nbsp;
+            </td>
+            <td>
+                <input ng-value="getCurrentUrl()" id='currentUrl' type="text" select-on-click data-toggle="popover" data-content='Text copied to clipboard'/>
+            </td>
+            <td style='padding-left:5px;padding-top:13px'>
+                <a ng-click='copyLink()' class='close-share-side' ><img src="/map-icons/copy-icon.svg" alt='Copy link' title='Copy link'></a>&nbsp;&nbsp;
+            </td>
+            <td style='padding-left:10px'>
+                <a ng-click='toggleMapShare($event)' class='close-share-side' style='float:right;margin-right:8px;margin-top:4px' alt='Close share panel' title='Close share panel'>
+                    <i class='glyphicon glyphicon-remove'></i>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,47 @@
+#links-page {
+    background: white;
+}
+
+.whole-page {
+
+}
+
+.whole-page.links-open {
+    -o-transform:translate3d(-85%, 0, 0);
+    -ms-transform:translate3d(-85%, 0, 0);
+    -moz-transform:translate3d(-85%, 0, 0);
+    -webkit-transform:translate3d(-85%, 0, 0);
+    transform:translate3d(-85%,0,0);
+}
+
+.links-pane {
+    position: absolute;
+    height: 100%;
+    width: 85%;
+    top: 0;
+    bottom: 0;
+    z-index: 80;
+    left: 15%;
+    -webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    -ms-transition: opacity 0.5s ease;
+    transition: opacity 0.5s ease;
+
+    opacity: 0;
+}
+
+.links-pane.links-open {
+
+    opacity: 1;
+
+}
+
+/*@media print {
+    .whole-page {
+        bottom: auto;
+        right: auto;
+        height: 900px;
+    }
+}
+    */

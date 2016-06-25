@@ -1,0 +1,21 @@
+﻿<header>
+    Turn All <button ng-click="onToggleAllSpecies(true)">On</button> | <button ng-click="onToggleAllSpecies(false)">Off</button>
+</header>
+<div class="species-scroller">
+    <div ng-repeat="category in filters">
+        <h3><img ng-if="category.icon" ng-src="/images/assets/icons/{{category.icon}}" class="species-header-icon" /> {{category.name}}</h3>
+        <ul class="list-unstyled" ng-class="{'om-has-subcategories': category.subcategories}">
+            <li ng-if="category.subcategories" ng-repeat="subcategory in category.subcategories">
+                <h4>{{subcategory.name}}</h4>
+                <ul class="list-unstyled">
+                    <li ng-repeat="item in subcategory.filters">
+                        <label class="check">{{item.name}} <input type="checkbox" ng-checked="item.isOn" ng-click="onToggleSpecies(item)"><i></i></label>
+                    </li>
+                </ul>
+            </li>
+            <li ng-if="!category.subcategories" ng-repeat="item in category.filters">
+                <label class="check">{{item.name}} <input type="checkbox" ng-checked="item.isOn" ng-click="onToggleSpecies(item)"><i></i></label>
+            </li>
+        </ul>
+    </div>
+</div>

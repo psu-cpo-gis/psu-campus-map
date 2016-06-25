@@ -1,0 +1,24 @@
+<div class="popup-content">
+    <div>
+        <h3>{{feature.getProperty('LONGNAME')}}</h3>
+    </div>
+
+    <div>
+        <div>
+            {{feature.getProperty('BLDG_ADDR')}}
+        </div>
+        <img src="{{feature.getProperty('Photo')}}" style="width: 200px;" />
+        <div>
+            {{feature.getProperty('DEPARTMENTS')}}
+        </div>
+        <div>
+            {{feature.getProperty('LABS')}}
+        </div>
+        <div ng-if="feature.getProperty('URL') != null">
+            <a href="{{feature.getProperty('URL')}}" target='_blank'><u>More Info</u></a>
+        </div>
+    </div>
+    <br/>
+    <a href='https://www.google.com/maps/dir/Current+Location/{{feature.getProperty("BLDG_ADDR")}}+Portland+OR' target='_blank'><u>Driving directions...</u></a>
+</div>
+

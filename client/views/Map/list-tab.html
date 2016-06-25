@@ -1,0 +1,56 @@
+﻿<header>
+    <h2 ng-if="mapType == 'hunting'"><strong>Properties</strong> (My favorites first)</h2>
+    <h2 ng-if="mapType == 'shooting'"><strong>Shooting Ranges</strong> (My favorites first)</h2>
+</header>
+<div class="list-scroller">
+    <div ng-repeat="item in properties">
+        <div ng-if="mapType == 'hunting'">
+            <div class="favorite" ng-if="item.isFavorite"><span class="glyphicon glyphicon-star"></span></div>
+            <div ng-if="!item.isOffice">
+                <h3>
+                    <span ng-if="item.area.notices" class="glyphicon glyphicon-exclamation-sign notices-icon"></span>
+                    <a href ng-click="openShowInfoModal(item)">{{item.area.title}}</a>
+                </h3>
+                <span>{{item.area.description}}</span>
+                <br />
+                <img ng-repeat="item in item.speciesCategoryIcons" ng-src="/images/assets/icons/{{item}}" class="list-icon" />
+                |
+                <img ng-repeat="item in item.accessIcons track by $index" ng-src="/images/assets/icons/{{item}}" class="list-icon" />
+            </div>
+            <div ng-if="item.isOffice">
+                <h3><a href ng-click="openShowInfoModal(item)">{{item.area.office_name}}</a></h3>
+                <strong>Phone:</strong>
+                <span><a href="tel://1-{{item.area.office_phone}}">{{item.area.office_phone}}</a></span>
+                <br />
+                <strong>Address:</strong>
+                <span>{{item.area.office_address}}</span>
+                <br />
+                <span>{{item.area.office_city}}</span>, Oregon <span>{{item.area.office_zip.substr(0, 5)}}</span>
+            </div>
+        </div>
+        <div ng-if="mapType == 'shooting'">
+            <div>
+                <div class="favorite" ng-if="item.isFavorite"><span class="glyphicon glyphicon-star"></span></div>
+                <h3><a href ng-click="openShowInfoModal(null, item)">{{item.Name}}</a></h3>
+                <span>{{item.Address}}, {{item.City}}</span>
+                <br />
+                <span>
+                    {{item.Phone}}
+                    <span ng-if="item.Email">
+                        | {{item.Email}}
+                    </span>
+                    <span ng-if="item.URL">
+                        | <a href="http://{{item.URL}}" target="_blank">{{item.URL}}</a>
+                    </span>
+                </span>
+                <br />
+                <span ng-if="item.ShotgunPractice || item.ShotgunOther || item.ShotgunSkeet || item.ShotgunTrap || item.ShotgunClay || item.Shotgun5Stand">Shotgun</span>
+                <span ng-if="item.RifleIn || item.RifleOut">Rifle</span>
+                <span ng-if="item.HandgunIn || item.HandgunOut">Handgun</span>
+                <span ng-if="item.ArcheryIn || item.ArcheryOut || item.Archery3D">Archery</span>
+                |
+                <span>{{item.AccessTypeName}}</span>
+            </div>
+        </div>
+    </div>
+</div>

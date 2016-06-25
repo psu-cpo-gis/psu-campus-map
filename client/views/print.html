@@ -1,0 +1,15 @@
+<div class="page-map print" data-ng-controller="mapCtrl" id="mapPage" ng-cloak style="width: 700px; height: 920px;">
+    
+    <div id="map-tab">
+        <div id="print-button-panel" ng-if="!config.isMobile">
+            <button type="button" class="btn btn-metro btn-primary" ng-click="print()">
+                <img src="/map-icons/print_shop.svg"/>
+                Print
+            </button>
+        </div>
+
+        <div id="map" class="ui-map"></div>
+
+    </div>
+    
+</div>

@@ -1,0 +1,23 @@
+<div class="popup-content">
+    <div>
+        <h3 ng-repeat="f in mergedFeatures">{{f.getProperty('LAB_NAME')}}</h3>
+    </div>
+	<br>
+    <div>
+        <div>
+            <b>Room{{mergedFeatures.length == 1 ? "" : "s"}}:</b>
+            <span ng-repeat="f in mergedFeatures">{{f.getProperty('Room')}}{{$last ? '' : ', '}}</span>
+        </div>
+        <div>
+            <b>Seats:</b>
+            <span ng-repeat="f in mergedFeatures">{{f.getProperty('Seats')}}{{$last ? '' : ', '}}</span>
+        </div>
+	</div>
+    <br />
+
+    <a href="https://www.pdx.edu/oit/labs" target='_blank'><u>Lab Availability</u></a>
+
+    <button type="button" class="btn btn-metro btn-primary" ng-click="togglePopupShare($event)" ng-if="false">
+        <img src="/map-icons/ic_share_24px.svg" />
+    </button>
+</div>
