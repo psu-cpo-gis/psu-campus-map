@@ -91,7 +91,7 @@ module.exports = function(grunt) {
     },
     compass: {
       options: {
-        basePath: "c:/Users/kevin/Campus_GIS/psu-campus-map/",
+        basePath: "c:/Users/kms22/Campus_GIS/psu-campus-map/",
         sassDir: "<%= yeoman.app %>/styles",
         cssDir: ".tmp/styles",
         generatedImagesDir: ".tmp/styles/ui/images/",
