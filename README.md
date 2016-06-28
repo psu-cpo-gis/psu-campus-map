@@ -4,7 +4,8 @@ PSU Campus Map
 v1.11.1
 =======
 
-* Updated Karl Miller Center building footprint and tile cache.
+* Updated Karl Miller Center building footprint and tile cache
+* Fixed errant URBN search (was pointing to Engineering Building due to wrong AiM code)
 
 v1.11
 =====
