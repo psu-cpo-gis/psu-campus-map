@@ -2079,10 +2079,10 @@
             "type": "Feature",
             "properties": {
                 "Department": "College of Urban and Public Affairs",
-                "BLDG_AIM": "B0038",
+                "BLDG_AIM": "B0037",
                 "Abbrev": "URBN",
                 "Room": "URBN-750",
-                "Name": "Engineering Building"
+                "Name": "Urban Center Building"
             },
             "geometry": {
                 "type": "Point",
@@ -2096,10 +2096,10 @@
             "type": "Feature",
             "properties": {
                 "Department": "Criminology and Criminal Justice",
-                "BLDG_AIM": "B0038",
+                "BLDG_AIM": "B0037",
                 "Abbrev": "URBN",
                 "Room": "URBN-550",
-                "Name": "Engineering Building"
+                "Name": "Urban Center Building"
             },
             "geometry": {
                 "type": "Point",
@@ -2113,10 +2113,10 @@
             "type": "Feature",
             "properties": {
                 "Department": "Political Science",
-                "BLDG_AIM": "B0038",
+                "BLDG_AIM": "B0037",
                 "Abbrev": "URBN",
                 "Room": "URBN-650",
-                "Name": "Engineering Building"
+                "Name": "Urban Center Building"
             },
             "geometry": {
                 "type": "Point",
@@ -2130,10 +2130,10 @@
             "type": "Feature",
             "properties": {
                 "Department": "Public Administration ",
-                "BLDG_AIM": "B0038",
+                "BLDG_AIM": "B0037",
                 "Abbrev": "URBN",
                 "Room": "URBN-650",
-                "Name": "Engineering Building"
+                "Name": "Urban Center Building"
             },
             "geometry": {
                 "type": "Point",
@@ -2147,10 +2147,10 @@
             "type": "Feature",
             "properties": {
                 "Department": "Nohad Toulan School of Urban Studies and Planning",
-                "BLDG_AIM": "B0038",
+                "BLDG_AIM": "B0037",
                 "Abbrev": "URBN",
                 "Room": "URBN-350",
-                "Name": "Engineering Building"
+                "Name": "Urban Center Building"
             },
             "geometry": {
                 "type": "Point",
@@ -2164,10 +2164,10 @@
             "type": "Feature",
             "properties": {
                 "Department": "PSU Bookstore",
-                "BLDG_AIM": "B0038",
+                "BLDG_AIM": "B0037",
                 "Abbrev": "URBN",
                 "Room": "URBN-",
-                "Name": "Engineering Building"
+                "Name": "Urban Center Building"
             },
             "geometry": {
                 "type": "Point",
@@ -2184,7 +2184,7 @@
                 "BLDG_AIM": "B0038",
                 "Abbrev": "URBN",
                 "Room": "URBN-450",
-                "Name": "Engineering Building"
+                "Name": "Urban Center Building"
             },
             "geometry": {
                 "type": "Point",
