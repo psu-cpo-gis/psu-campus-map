@@ -1,9 +1,15 @@
 # psu-campus-map
 PSU Campus Map
 
+v1.11.1
+=======
+
+* Updated Karl Miller Center building footprint and tile cache.
+
 v1.11
 =====
 
+* ---LAST TGG CONTRACTUAL UPDATE--- 
 * Unimplemented atomic ipad override on map infowindow popup links
 * Angular.js - ngTouch 1.3.2 broken...
     * backed angular-touch library from 1.3.2 back down to 1.3.0 in bower.json
