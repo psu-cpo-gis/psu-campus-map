@@ -1,6 +1,10 @@
 # psu-campus-map
 PSU Campus Map
 
+v1.11.2
+=======
+* Fix newline issue in sustainability geojson and CSS.
+
 v1.11.1
 =======
 
