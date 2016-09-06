@@ -1,8 +1,14 @@
 # psu-campus-map
 PSU Campus Map
 
+v1.12.21
+========
+
+* Update Restaurant & Coffee Shops geojson for accuracy as of 9/2016.
+
 v1.11.2
 =======
+
 * Fix newline issue in sustainability geojson and CSS.
 
 v1.11.1
