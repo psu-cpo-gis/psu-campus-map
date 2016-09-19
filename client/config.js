@@ -6,7 +6,7 @@
             {
                 initialPoint: { lat: 45.5112589, lng: -122.6838359 },
                 initialZoom: 17,
-                staticCampusMapURL: 'https://www.pdx.edu/sites/default/files/201507_PSUMap_PrintBW.pdf',
+                staticCampusMapURL: 'https://www.pdx.edu/sites/default/files/campus-map-for-print-bw-201605.pdf',
                 layers: [
                     {
                         id: 'Buildings',
