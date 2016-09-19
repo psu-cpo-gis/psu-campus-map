@@ -1,6 +1,11 @@
 # psu-campus-map
 PSU Campus Map
 
+v1.12.22
+========
+
+* Fix broken link to PDF B&W map.
+
 v1.12.21
 ========
 
