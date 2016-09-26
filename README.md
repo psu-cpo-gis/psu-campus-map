@@ -4,7 +4,7 @@ PSU Campus Map
 v1.12.23
 ========
 
-* Fix ASRC/Neuberger Hall text on Campus Tour GeoJSON for correct Admissions Office Information.
+* Fix ASRC/Neuberger Hall text on Campus Tour and Building Search GeoJSON for correct Admissions Office Information.
 
 v1.12.22
 ========

@@ -123,6 +123,23 @@
         {
             "type": "Feature",
             "properties": {
+                "Department": "Admissions",
+                "BLDG_AIM": "B0253A",
+                "Abbrev": "ASRC",
+                "Room": "ASRC-101",
+                "Name": "Academic and Student Recreation Center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68242,
+                    45.511212
+                ]
+            }
+        },        
+        {
+            "type": "Feature",
+            "properties": {
                 "Department": "School of Business Administration",
                 "BLDG_AIM": "B0009",
                 "Abbrev": "BA",
@@ -1137,23 +1154,6 @@
                 "coordinates": [
                     -122.685705,
                     45.509291
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Admissions",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-1st Floor Lobby",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
                 ]
             }
         },
