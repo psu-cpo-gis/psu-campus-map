@@ -2301,9 +2301,9 @@
             "properties": {
                 "Department": "Schoool of Gender, Race, and Nations",
                 "BLDG_AIM": "B0028",
-                "Abbrev": "XSB",
-                "Room": "XSB-150",
-                "Name": "XSB"
+                "Abbrev": "PKM",
+                "Room": "PKM-150",
+                "Name": "Parkmill"
             },
             "geometry": {
                 "type": "Point",
@@ -2318,9 +2318,9 @@
             "properties": {
                 "Department": "Black Studies ",
                 "BLDG_AIM": "B0028",
-                "Abbrev": "XSB",
-                "Room": "XSB-150",
-                "Name": "XSB"
+                "Abbrev": "PKM",
+                "Room": "PKM-150",
+                "Name": "Parkmill"
             },
             "geometry": {
                 "type": "Point",
@@ -2335,9 +2335,9 @@
             "properties": {
                 "Department": "Chicano Latino Studies",
                 "BLDG_AIM": "B0028",
-                "Abbrev": "XSB",
-                "Room": "XSB-150",
-                "Name": "XSB"
+                "Abbrev": "PKM",
+                "Room": "PKM-150",
+                "Name": "Parkmill"
             },
             "geometry": {
                 "type": "Point",
@@ -2352,9 +2352,9 @@
             "properties": {
                 "Department": "Indigenous Nations Studies ",
                 "BLDG_AIM": "B0028",
-                "Abbrev": "XSB",
-                "Room": "XSB-150",
-                "Name": "XSB"
+                "Abbrev": "PKM",
+                "Room": "PKM-150",
+                "Name": "Parkmill"
             },
             "geometry": {
                 "type": "Point",
@@ -2367,11 +2367,11 @@
         {
             "type": "Feature",
             "properties": {
-                "Department": "Office of Grduate Studies",
+                "Department": "Office of Graduate Studies",
                 "BLDG_AIM": "B0028",
-                "Abbrev": "XSB",
-                "Room": "XSB-184",
-                "Name": "XSB"
+                "Abbrev": "PKM",
+                "Room": "PKM-184",
+                "Name": "Parkmill"
             },
             "geometry": {
                 "type": "Point",
@@ -2386,9 +2386,9 @@
             "properties": {
                 "Department": "Women, Gender and Sexuality Studies",
                 "BLDG_AIM": "B0028",
-                "Abbrev": "XSB",
-                "Room": "XSB-150",
-                "Name": "XSB"
+                "Abbrev": "PKM",
+                "Room": "PKM-150",
+                "Name": "Parkmill"
             },
             "geometry": {
                 "type": "Point",
