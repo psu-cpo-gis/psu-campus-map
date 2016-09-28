@@ -142,9 +142,9 @@
             "properties": {
                 "Department": "School of Business Administration",
                 "BLDG_AIM": "B0009",
-                "Abbrev": "BA",
-                "Room": "BA-650",
-                "Name": "School of Business Administration"
+                "Abbrev": "KMC (formerly BA)",
+                "Room": "KMC-650 (formerly BA-650)",
+                "Name": "Karl Miller Center"
             },
             "geometry": {
                 "type": "Point",
