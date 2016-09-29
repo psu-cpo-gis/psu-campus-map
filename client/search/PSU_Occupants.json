@@ -378,6 +378,57 @@
         {
             "type": "Feature",
             "properties": {
+                "Department": "McNair Scholars Program",
+                "BLDG_AIM": "B0015",
+                "Abbrev": "CH",
+                "Room": "CH-349",
+                "Name": "Cramer Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.684121,
+                    45.511697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Department": "BUILD EXITO",
+                "BLDG_AIM": "B0015",
+                "Abbrev": "CH",
+                "Room": "CH-347",
+                "Name": "Cramer Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.684121,
+                    45.511697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Department": "Louis Stokes Alliance for Minority Participation",
+                "BLDG_AIM": "B0015",
+                "Abbrev": "CH",
+                "Room": "CH-208",
+                "Name": "Cramer Hall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.684121,
+                    45.511697
+                ]
+            }
+        },        
+        {
+            "type": "Feature",
+            "properties": {
                 "Department": "",
                 "BLDG_AIM": "B0263",
                 "Abbrev": "CLSB",
@@ -1466,23 +1517,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Department": "Louis Stokes Alliance for Minority Participation",
-                "BLDG_AIM": "B0042",
-                "Abbrev": "SEH",
-                "Room": "SEH-103",
-                "Name": "Stephen Epler Residence Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.688006,
-                    45.512848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Department": "Campus Public Safety",
                 "BLDG_AIM": "B0250",
                 "Abbrev": "CPS",
@@ -1606,23 +1640,6 @@
                 "BLDG_AIM": "B0018A",
                 "Abbrev": "SMSU",
                 "Room": "SMSU-229",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "McNair Scholars Program",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-M302",
                 "Name": "Smith Memorial Student Union"
             },
             "geometry": {
