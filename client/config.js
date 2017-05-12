@@ -31,7 +31,7 @@
                         buttonClass: 'btn-primary main-menu',
                         isExpander: true,
                         parent: null,
-                        icon: 'rosette.svg',
+                        icon: 'multimodal-icon.svg',
                         data: [],
                         children: ['Bus', 'Streetcar', 'MAX']
                     },
