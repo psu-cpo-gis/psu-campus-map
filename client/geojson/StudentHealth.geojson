@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Student Health and Counseling Center", "Address": "University Center Building, 1880 SW 6th Avenue, Suite 200", "Description": "The Center for Student Health and Counseling (SHAC) is a community-based health care organization that provides high quality, accessible mental health, physical health, dental, and testing services targeted to the needs of the PSU student population. SHAC supports the University mission and collaborates with University staff and faculty to support student success. SHAC adheres to the PSU policy of non-discrimination."}, "geometry": { "type": "Point", "coordinates": [ -122.68306739100906, 45.510490680707463 ] } },
+{ "type": "Feature", "properties": { "Id": 1, "Name": "Quiet Prayer and Meditation Room", "Address": "Smith Memorial Student Union (SMSU), Room 047", "Description": "The space is open the following hours 7am-8pm Monday through Friday. The purpose of the space includes prayer/Salat, meditation, quiet space, and reflection. In the space students have access to meditation timers, meditation cushions (zafu/zabuton sets), prayer mats, and electric candles" }, "geometry": { "type": "Point", "coordinates": [ -122.68432077209386, 45.511828830090614 ] } },
+{ "type": "Feature", "properties": { "Id": 2, "Name": "PSU Food Pantry", "Address": "Smith Memorial Student Union (SMSU), Room 047A", "Description": null }, "geometry": { "type": "Point", "coordinates": [ -122.68438263808002, 45.511695580274299 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "Name": "Harvest Share", "Address": "Outside Shattuck Hall on the Park Blocks", "Description": "Second Monday of the month at noon, rain or shine, first-come/first-served.
+Open to all PSU students, faculty, staff, and community members. Bring your own reusable shopping bag. Dress appropriately for the weather." }, "geometry": { "type": "Point", "coordinates": [ -122.68545815445466, 45.510605787133642 ] } },
+{ "type": "Feature", "properties": { "Id": 4, "Name": "Mind Spa", "Address": "University Center Building, 527 SW Hall Street, Suite 310", "Description": "The Mind Spa is a space on campus for students to relax and rejuvenate at no charge. Engage in light therapy, meditation, yoga, biofeedback, or a massage." }, "geometry": { "type": "Point", "coordinates": [ -122.68279315812815, 45.510596269289621 ] } }
+]
+}
