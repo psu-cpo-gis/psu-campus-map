@@ -172,7 +172,7 @@
                     buttonClass: 'btn-primary main-menu',
                     icon: 'psu.png',
                     data: [],
-                    children: ['CampusTours', 'CultureTours', 'SustainabilityTours']
+                    children: ['CampusTours', 'CultureTours', 'SustainabilityTours', 'StudentHealth']
 
                 },
                 {
@@ -290,7 +290,27 @@
                             features: null
                         }
                     ]
-                }
+                },
+                {
+                    id: 'StudentHealth',
+                    label: 'StudentHealth',
+                    buttonClass: 'btn-primary main-menu-sub',
+                    visible: false,
+                    inMenu: true,
+                    parent: 'Explore',
+                    isExpander: false,
+                    icon: 'studenthealth.svg',
+                    data: [
+                        {
+                            geojsonFilename: 'StudentHealth.geojson',
+                            infoWindowTemplate: 'foodcart.html',
+                            icon: 'foodcart-map.svg',
+                            geojson: null,
+                            features: null
+                        }
+                    ]
+                },
+
                 ]
             };
 
