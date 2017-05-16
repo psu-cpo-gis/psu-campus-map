@@ -86,8 +86,6 @@
 
                         ]
                     },
-
-
                     {
                         id: 'Parking',
                         label: 'Parking',
@@ -188,7 +186,7 @@
                         {
                             geojsonFilename: 'CampusVisit.geojson',
                             infoWindowTemplate: 'tour.html',
-                            icon: 'psu-map.png',
+                            icon: 'psu-map.png', 
                             geojson: null,
                             features: null
                         }
@@ -303,8 +301,8 @@
                     data: [
                         {
                             geojsonFilename: 'StudentHealth.geojson',
-                            infoWindowTemplate: 'foodcart.html',
-                            icon: 'foodcart-map.svg',
+                            infoWindowTemplate: 'tour.html',
+                            icon: 'studenthealth-map.png',
                             geojson: null,
                             features: null
                         }
