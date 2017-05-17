@@ -32,7 +32,7 @@
                         parent: null,
                         icon: 'multimodal-icon.svg',
                         data: [],
-                        children: ['TriMet', 'Parking', 'Bikes']
+                        children: ['TriMet', 'Bike', 'Parking']
                     },
                     {
                         id: 'TriMet',
@@ -86,6 +86,47 @@
 
                         ]
                     },
+
+                   {
+                        id: 'Bike',
+                        label: 'Bike',
+                        buttonClass: 'btn-primary main-menu-sub',
+                        visible: false,
+                        inMenu: true,
+                        parent: 'Travel',
+                        isExpander: false,
+                        icon: 'ic_directions_bike_black_48dp.png',
+                        data: [
+                            {
+                                geojsonFilename: 'BikeParking.geojson',
+                                icon: 'ic_directions_bike_black_48dp-map.png',
+                                geojson: null,
+                                features: null,
+                                infoWindowTemplate: 'bus.html',
+                            },                          
+                            {
+                                geojsonFilename: 'DedicatedBikeLane.geojson',
+                                geojson: null,
+                                features: null,
+                                style: {
+                                    strokeColor: '#000000',
+                                    strokeWeight: 3
+                                }
+                            },      
+                            {
+                                geojsonFilename: 'EstablishedBikeway.geojson',
+                                geojson: null,
+                                features: null,
+                                style: {
+                                    strokeColor: '#000000',
+                                    strokeWeight: 3
+                                }
+                            },                                                
+
+                        ]
+                    },
+
+
                     {
                         id: 'Parking',
                         label: 'Parking',
@@ -116,11 +157,8 @@
                             }
 
                         ],
-                        //children: ['CarParking', 'CarPermitParking']
                         children: []
                     },
-
-
                 {
                     id: 'Food',
                     label: 'Eat',
@@ -175,11 +213,11 @@
                 },
                 {
                     id: 'CampusTours',
-                    label: 'Campus',
+                    label: 'Tour',
                     buttonClass: 'btn-primary main-menu-sub',
                     visible: false,
                     inMenu: true,
-                    parent: 'Tours',
+                    parent: 'Explore',
                     isExpander: false,
                     icon: 'tours.png',
                     data: [
@@ -191,8 +229,7 @@
                             features: null
                         }
                     ]
-                }
-                ,
+                },
                 {
                     id: 'CultureTours',
                     label: 'Art',
@@ -211,8 +248,7 @@
                             features: null
                         }
                     ]
-                }
-                ,
+                },
                 {
                     id: 'SustainabilityTours',
                     label: 'Sustainability',
@@ -291,7 +327,7 @@
                 },
                 {
                     id: 'StudentHealth',
-                    label: 'StudentHealth',
+                    label: 'Health',
                     buttonClass: 'btn-primary main-menu-sub',
                     visible: false,
                     inMenu: true,
