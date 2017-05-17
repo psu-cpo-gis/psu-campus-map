@@ -102,14 +102,14 @@
                                 icon: 'ic_directions_bike_black_48dp-map.png',
                                 geojson: null,
                                 features: null,
-                                infoWindowTemplate: 'bus.html',
+                                infoWindowTemplate: 'bikeGarage.html',
                             },                          
                             {
                                 geojsonFilename: 'DedicatedBikeLane.geojson',
                                 geojson: null,
                                 features: null,
                                 style: {
-                                    strokeColor: '#000000',
+                                    strokeColor: '#128030',
                                     strokeWeight: 3
                                 }
                             },      
@@ -118,7 +118,7 @@
                                 geojson: null,
                                 features: null,
                                 style: {
-                                    strokeColor: '#000000',
+                                    strokeColor: '#128030',
                                     strokeWeight: 3
                                 }
                             },                                                
