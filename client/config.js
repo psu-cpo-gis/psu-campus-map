@@ -224,7 +224,7 @@
                         {
                             geojsonFilename: 'CampusVisit.geojson',
                             infoWindowTemplate: 'tour.html',
-                            icon: 'psu-map.png', 
+                            icon: 'tours-map.png', 
                             geojson: null,
                             features: null
                         }
