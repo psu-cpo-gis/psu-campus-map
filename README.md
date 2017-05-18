@@ -1,6 +1,16 @@
 # psu-campus-map
 PSU Campus Map
 
+v1.13
+=====
+
+* Consolidate transportation layers into one major layer.
+* Create bicycle layer.
+* Create student health layer.
+* Update Restaurant & Coffee Shops geojson as of 5/2017.
+* Typo fixes.
+
+
 v1.12.23
 ========
 
