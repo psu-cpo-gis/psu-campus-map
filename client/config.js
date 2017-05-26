@@ -103,7 +103,14 @@
                                 geojson: null,
                                 features: null,
                                 infoWindowTemplate: 'bikeGarage.html',
-                            },                          
+                            },      
+                            {
+                                geojsonFilename: 'Bike_Facilities.geojson',
+                                icon: 'ic_directions_bike_black_48dp-map.png',
+                                geojson: null,
+                                features: null,
+                                infoWindowTemplate: 'tour.html',
+                            },                                                  
                             {
                                 geojsonFilename: 'DedicatedBikeLane.geojson',
                                 geojson: null,
