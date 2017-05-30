@@ -9,6 +9,7 @@ v1.13
 * Create student health layer.
 * Update Restaurant & Coffee Shops geojson as of 5/2017.
 * Typo fixes.
+* Tile cache update.
 
 
 v1.12.23
