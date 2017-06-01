@@ -8,6 +8,12 @@
             <b>Capacity:</b>
             {{feature.getProperty('Capacity')}}
         </div>
+        <div>
+            <b>Fixit Repair Stand:</b>
+            
+            <a target='_blank' href="{{feature.getProperty('URL')}}"><u>{{feature.getProperty('Fixit')}}</u></a>
+
+        </div>
     </div>
     <br />
     <button type="button" class="btn btn-metro btn-primary" ng-click="togglePopupShare($event)" ng-if="false">

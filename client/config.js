@@ -99,7 +99,7 @@
                         data: [
                             {
                                 geojsonFilename: 'BikeParking.geojson',
-                                icon: 'ic_directions_bike_black_48dp-map.png',
+                                icon: 'bike_pkng-map.png',
                                 geojson: null,
                                 features: null,
                                 infoWindowTemplate: 'bikeGarage.html',
