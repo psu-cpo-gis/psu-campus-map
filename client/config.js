@@ -103,7 +103,14 @@
                                 geojson: null,
                                 features: null,
                                 infoWindowTemplate: 'bikeGarage.html',
-                            },      
+                            },
+                            {
+                                geojsonFilename: 'BikeRepair.geojson',
+                                icon: 'Fixit_repair-map.png',
+                                geojson: null,
+                                features: null,
+                                infoWindowTemplate: 'bikeRepair.html',
+                            },                                   
                             {
                                 geojsonFilename: 'Bike_Facilities.geojson',
                                 icon: 'ic_directions_bike_black_48dp-map.png',
