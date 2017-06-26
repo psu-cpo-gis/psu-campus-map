@@ -1,4 +1,4 @@
-{
+l{
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
@@ -7,5 +7,6 @@
 { "type": "Feature", "properties": { "Name": "Montgomery St Foodcarts", "Photo": "\/images\/psuimages\/fcmontgomery.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68541659499999, 45.512499448000028 ] ] } },
 { "type": "Feature", "properties": { "Name": "University Center Building Foodcarts", "Photo": "\/images\/psuimages\/fcucb.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68214825799998, 45.510681226000031 ] ] } },
 { "type": "Feature", "properties": { "Name": "Fourth Ave Foodcarts", "Photo": "\/images\/psuimages\/fc4thave.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68149509899996, 45.509581503000049 ] ] } }
+{ "type": "Feature", "properties": { "Name": "Library Foodcarts", "Photo": "\/images\/psuimages\/place_holder.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.686041, 45.512097 ] ] } }
 ]
 }
