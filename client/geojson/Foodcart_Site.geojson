@@ -7,6 +7,6 @@
 { "type": "Feature", "properties": { "Name": "Montgomery St Food Carts", "Photo": "\/images\/psuimages\/fcmontgomery.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68541659499999, 45.512499448000028 ] ] } },
 { "type": "Feature", "properties": { "Name": "University Center Building Food Carts", "Photo": "\/images\/psuimages\/fcucb.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68214825799998, 45.510681226000031 ] ] } },
 { "type": "Feature", "properties": { "Name": "Fourth Ave Food Carts", "Photo": "\/images\/psuimages\/fc4thave.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68149509899996, 45.509581503000049 ] ] } },
-{ "type": "Feature", "properties": { "Name": "Library Food Carts", "Photo": "\/images\/psuimages\/placeholder.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68604100000000, 45.512097000000000 ] ] } }
+{ "type": "Feature", "properties": { "Name": "Library Food Carts", "Photo": "\/images\/psuimages\/lfc.jpg" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -122.68604100000000, 45.512097000000000 ] ] } }
 ]
 }
