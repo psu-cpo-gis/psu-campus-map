@@ -13,12 +13,13 @@
         </div>
         <div>
             {{feature.getProperty('LABS')}}
-        </div>
+        </div>   
         <div ng-if="feature.getProperty('URL') != null">
             <a href="{{feature.getProperty('URL')}}" target='_blank'><u>More Info</u></a>
         </div>
     </div>
     <br/>
+    <a href="{{feature.getProperty('FLOORPLAN')}}" target='_blank'><u>Building Floorplans</u></a><br><br>
     <a href='https://www.google.com/maps/dir/Current+Location/{{feature.getProperty("BLDG_ADDR")}}+Portland+OR' target='_blank'><u>Directions...</u></a>
 </div>
 
