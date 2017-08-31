@@ -1,4 +1,6 @@
 "use strict";
+//Add to avoid deprecation warnings.
+var os = require('os'); os.tmpDir = os.tmpdir;
 var LIVERELOAD_PORT, lrSnippet, mountFolder;
 
 LIVERELOAD_PORT = 35728;
@@ -91,7 +93,7 @@ module.exports = function(grunt) {
     },
     compass: {
       options: {
-        basePath: "c:/Users/kms22/Campus_GIS/psu-campus-map/",
+        basePath: "/Users/kevin/KS_personal/psu-campus-map/",
         sassDir: "<%= yeoman.app %>/styles",
         cssDir: ".tmp/styles",
         generatedImagesDir: ".tmp/styles/ui/images/",
