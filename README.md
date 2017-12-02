@@ -1,6 +1,11 @@
 # psu-campus-map
 PSU Campus Map
 
+v1.14
+=====
+* Update tile cache for temporary trailers.
+* Minor typo and other edits.
+
 v1.13
 =====
 
