@@ -1,0 +1,33 @@
+<div class="popup-content">
+    <div>
+        <h3>{{feature.getProperty('LONGNAME')}}</h3>
+    </div>
+
+    <div>
+        <div>
+            {{feature.getProperty('BLDG_ADDR')}}
+        </div>
+        <img src="{{feature.getProperty('Photo')}}" style="width: 200px;" />
+        <div>
+            {{feature.getProperty('DEPARTMENTS')}}
+        </div>
+        <div>
+            {{feature.getProperty('LABS')}}
+        </div>   
+            Classrooms (DF 4, DF 5, DF 13, DF 14)<br>
+            OIT Classrooms (DF 6, DF 7)<br>
+            Art Studios (DF 9, DF 10, DF 11, DF 12)<br>
+            Math Lab (DF 1)<br>
+            Ooligan Lab ( DF 2)<br>
+            Other Offices (DF 3, DF 8)<br>
+        <div ng-if="feature.getProperty('URL') != null">
+            <a href="{{feature.getProperty('URL')}}" target='_blank'><u>More Info</u></a>
+        </div>
+    </div>
+    <br/>
+        <div ng-if="feature.getProperty('FLOORPLAN') != null">
+            <a href="{{feature.getProperty('FLOORPLAN')}}" target='_blank'><u>Building Floorplans</u></a>
+        </div>
+        <br/>
+    <a href='https://www.google.com/maps/dir/Current+Location/{{feature.getProperty("BLDG_ADDR")}}+Portland+OR' target='_blank'><u>Directions...</u></a>
+</div>

@@ -8,6 +8,49 @@
                 initialZoom: 17,
                 staticCampusMapURL: 'https://www.pdx.edu/sites/default/files/campus-map-for-print-bw-201605.pdf',
                 layers: [
+
+                    {
+                        id: 'TrailersDougFir',
+                        visible: true,
+                        inMenu: false,
+                        data: [
+                            {
+                                geojsonFilename: 'TrailersDougFir.geojson',
+                                infoWindowTemplate: 'trailersDougFir.html',
+                                geojson: null,
+                                features: null,
+                                isSearchTarget: true,
+                            }
+                        ],
+                    },
+                    {
+                        id: 'TrailersPonderosaPine',
+                        visible: true,
+                        inMenu: false,
+                        data: [
+                            {
+                                geojsonFilename: 'TrailersPonderosaPine.geojson',
+                                infoWindowTemplate: 'trailersPonderosaPine.html',
+                                geojson: null,
+                                features: null,
+                                isSearchTarget: true,
+                            }
+                        ],
+                    },
+                    {
+                        id: 'TrailersWHemlock',
+                        visible: true,
+                        inMenu: false,
+                        data: [
+                            {
+                                geojsonFilename: 'TrailersWHemlock.geojson',
+                                infoWindowTemplate: 'trailersWHemlock.html',
+                                geojson: null,
+                                features: null,
+                                isSearchTarget: true,
+                            }
+                        ],
+                    },                
                     {
                         id: 'Buildings',
                         visible: true,
