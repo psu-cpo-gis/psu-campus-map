@@ -4,6 +4,7 @@ PSU Campus Map
 v1.14
 =====
 * Update tile cache for temporary trailers.
+* Update file geojson to show temporary trailers.
 * Minor typo and other edits.
 
 v1.13
