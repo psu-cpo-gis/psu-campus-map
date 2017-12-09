@@ -1,10 +1,11 @@
 # psu-campus-map
 PSU Campus Map
 
-v1.14
-=====
+v1.141
+======
 * Update tile cache for temporary trailers.
 * Update file geojson to show temporary trailers.
+* Add custom popup and geojson for each temporary trailer cluster.
 * Minor typo and other edits.
 
 v1.13
