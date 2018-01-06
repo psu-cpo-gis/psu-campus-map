@@ -1,2420 +1,2454 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of Art and Design",
-                "BLDG_AIM": "B0039A",
-                "Abbrev": "AB",
-                "Room": "AB-110",
-                "Name": "Art Building & Annex"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682718,
-                    45.508624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of Social Work",
-                "BLDG_AIM": "B0253A",
-                "Abbrev": "ASRC",
-                "Room": "ASRC-600",
-                "Name": "Academic and Student Recreation Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68242,
-                    45.511212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Transportation and Parking Services",
-                "BLDG_AIM": "B0253A",
-                "Abbrev": "ASRC",
-                "Room": "ASRC-145",
-                "Name": "Academic and Student Recreation Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68242,
-                    45.511212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Campus Recreation",
-                "BLDG_AIM": "B0253A",
-                "Abbrev": "ASRC",
-                "Room": "ASRC-210",
-                "Name": "Academic and Student Recreation Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68242,
-                    45.511212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Bike Hub",
-                "BLDG_AIM": "B0253A",
-                "Abbrev": "ASRC",
-                "Room": "ASRC-155",
-                "Name": "Academic and Student Recreation Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68242,
-                    45.511212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Outdoor Program",
-                "BLDG_AIM": "B0253A",
-                "Abbrev": "ASRC",
-                "Room": "ASRC-180",
-                "Name": "Academic and Student Recreation Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68242,
-                    45.511212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Viking Welcome Center",
-                "BLDG_AIM": "B0253A",
-                "Abbrev": "ASRC",
-                "Room": "ASRC-101",
-                "Name": "Academic and Student Recreation Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68242,
-                    45.511212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Admissions",
-                "BLDG_AIM": "B0253A",
-                "Abbrev": "ASRC",
-                "Room": "ASRC-101",
-                "Name": "Academic and Student Recreation Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68242,
-                    45.511212
-                ]
-            }
-        },        
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of Business Administration",
-                "BLDG_AIM": "B0009",
-                "Abbrev": "KMC (formerly BA)",
-                "Room": "KMC-650 (formerly BA-650)",
-                "Name": "Karl Miller Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683253,
-                    45.511379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "University Housing & Residence Life Offices",
-                "BLDG_AIM": "B0254",
-                "Abbrev": "BWDY",
-                "Room": "BWDY-210",
-                "Name": "Broadway Residence Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684407,
-                    45.509583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Anthropology",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-141",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "ReUse Room",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-180",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "College of Liberal Arts and Sciences - Dean's Office",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-341",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Economics",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-241",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "History",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-441",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Psychology",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-317",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Geography",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-424",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Geology",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-17",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Sociology",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-217",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "The Writing Center",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-188",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "University Studies",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-141",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Vice President of Enrollment Management and Student Affairs",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-345",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683998,
-                    45.512607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "McNair Scholars Program",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-349",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "BUILD EXITO",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-347",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Louis Stokes Alliance for Minority Participation",
-                "BLDG_AIM": "B0015",
-                "Abbrev": "CH",
-                "Room": "CH-208",
-                "Name": "Cramer Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },        
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "",
-                "BLDG_AIM": "B0263",
-                "Abbrev": "CLSB",
-                "Room": "",
-                "Name": "Collaborative Life Sciences Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67147,
-                    45.50340
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Civil and Environmental Engineering",
-                "BLDG_AIM": "B0038",
-                "Abbrev": "EB",
-                "Room": "EB-200",
-                "Name": "Engineering Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Maseeh College of Engineering and Computer Science -- Dean's Office",
-                "BLDG_AIM": "B0038",
-                "Abbrev": "EB",
-                "Room": "EB-500",
-                "Name": "Engineering Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Mechanical and Materials Engineering",
-                "BLDG_AIM": "B0038",
-                "Abbrev": "EB",
-                "Room": "EB-400",
-                "Name": "Engineering Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Institute for Asian Studies",
-                "BLDG_AIM": "B0023",
-                "Abbrev": "EH",
-                "Room": "EH-309",
-                "Name": "East Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684082,
-                    45.510486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Middle Eastern Studies Center",
-                "BLDG_AIM": "B0023",
-                "Abbrev": "EH",
-                "Room": "EH-318",
-                "Name": "East Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684082,
-                    45.510486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Office of International Affairs",
-                "BLDG_AIM": "B0023",
-                "Abbrev": "EH",
-                "Room": "EH-101",
-                "Name": "East Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684082,
-                    45.510486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Waseda Transnational Program ",
-                "BLDG_AIM": "B0023",
-                "Abbrev": "EH",
-                "Room": "EH-220",
-                "Name": "East Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684082,
-                    45.510486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "International Studies Program",
-                "BLDG_AIM": "B0023",
-                "Abbrev": "EH",
-                "Room": "EH-341",
-                "Name": "East Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684082,
-                    45.510486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Asynchronous Research Center",
-                "BLDG_AIM": "B0036A",
-                "Abbrev": "FAB",
-                "Room": "FAB-105",
-                "Name": "Fourth Avenue Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.680769,
-                    45.510067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Center for Science Education",
-                "BLDG_AIM": "B0036A",
-                "Abbrev": "FAB",
-                "Room": "FAB-175",
-                "Name": "Fourth Avenue Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.680769,
-                    45.510067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Computer Science",
-                "BLDG_AIM": "B0036A",
-                "Abbrev": "FAB",
-                "Room": "FAB-120",
-                "Name": "Fourth Avenue Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.680769,
-                    45.510067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Electical and Computer Engineering",
-                "BLDG_AIM": "B0036A",
-                "Abbrev": "FAB",
-                "Room": "FAB-160",
-                "Name": "Fourth Avenue Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.680769,
-                    45.510067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Graduate School of Education",
-                "BLDG_AIM": "B0036A",
-                "Abbrev": "FAB",
-                "Room": "FAB-200",
-                "Name": "Fourth Avenue Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.680769,
-                    45.510067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Enginnering & Technology Management",
-                "BLDG_AIM": "B0036A",
-                "Abbrev": "FAB",
-                "Room": "FAB-50-02",
-                "Name": "Fourth Avenue Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.680769,
-                    45.510067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Transportation Research and Education Consortium",
-                "BLDG_AIM": "B0036A",
-                "Abbrev": "FAB",
-                "Room": "FAB-175",
-                "Name": "Fourth Avenue Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.680769,
-                    45.510067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "System Science",
-                "BLDG_AIM": "B0123",
-                "Abbrev": "HAR",
-                "Room": "HAR-100",
-                "Name": "Harder House"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.685085,
-                    45.513826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Helen Gordon Child Development Center",
-                "BLDG_AIM": "B0013",
-                "Abbrev": "HGCDC",
-                "Room": "HGCDC-100",
-                "Name": "Helen Gordon Child Development Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.687991,
-                    45.51452
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "College of the Arts -- Dean's Office",
-                "BLDG_AIM": "B0001",
-                "Abbrev": "LH",
-                "Room": "LH-349",
-                "Name": "Lincoln Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683572,
-                    45.513172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of Music",
-                "BLDG_AIM": "B0001",
-                "Abbrev": "LH",
-                "Room": "LH-231",
-                "Name": "Lincoln Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683572,
-                    45.513172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of Theatre and Film",
-                "BLDG_AIM": "B0001",
-                "Abbrev": "LH",
-                "Room": "LH-127",
-                "Name": "Lincoln Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683572,
-                    45.513172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Campus Planning Office",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-340",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Campus Sustainability Office",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-128",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Center for Improvement of of Child and Family Services",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-400",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Center for Interdisciplinary Mentoring Research",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-900",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Community Environmental Services",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-128",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Finance and Accounting Services Team",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-260",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "General Counsel",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-850",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Global Diversity and Inclusion",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-830",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Human Resource center",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-518",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Institute for Sustainable Solutions",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-110",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Office of Institutional Research and Planning",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-385",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Office of the President",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-850",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Provots Office",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-650",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "PSU Foundation",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-730",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Reclaiming Futures",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-380",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Regional Research Institute",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-900",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Research and Strategic Partnerships",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-630",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Survey Research Lab",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-400",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Sustainability Leadership Center",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-128",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "University Communications",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-810",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Finance and Administration",
-                "BLDG_AIM": "B0256",
-                "Abbrev": "MCB",
-                "Room": "MCB-501",
-                "Name": "Market Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.679629,
-                    45.512078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Library",
-                "BLDG_AIM": "B0022",
-                "Abbrev": "ML",
-                "Room": "ML-100",
-                "Name": "Millar Library"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686005,
-                    45.511522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "The Learning Center",
-                "BLDG_AIM": "B0022",
-                "Abbrev": "ML",
-                "Room": "ML-245",
-                "Name": "Millar Library"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686005,
-                    45.511522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Womens Resource Center",
-                "BLDG_AIM": "B0102",
-                "Abbrev": "MONT",
-                "Room": "MONT-20",
-                "Name": "Montgomery Residence Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.685924,
-                    45.51244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Native American Student  and Community Center",
-                "BLDG_AIM": "B0040",
-                "Abbrev": "NASCC",
-                "Room": "NASCC-140",
-                "Name": "Native American Student and Community Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.685705,
-                    45.509291
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Conflict Resolution",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-239",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "English",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-405",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Fariborz Masseh Department of Mathematics and Statistics",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-334",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Financial Aid",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-1st Floor Lobby",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Ooligan Press",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-369",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Philosophy",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-393",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Portland Center for Public Humanities",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-445",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Registration and Records",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-1st Floor Lobby",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Russian Flagship Center",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-491",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Speech and Hearning Sciences",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-85",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Student Financial Services",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-1st Floor Lobby",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "World Languages and Literature",
-                "BLDG_AIM": "B0002",
-                "Abbrev": "NH",
-                "Room": "NH-491",
-                "Name": "Neuberger Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684699,
-                    45.511237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Athletics",
-                "BLDG_AIM": "B0004",
-                "Abbrev": "PSC",
-                "Room": "PSC-212",
-                "Name": "Peter W. Stott Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686762,
-                    45.510916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Physical Education",
-                "BLDG_AIM": "B0004",
-                "Abbrev": "PSC",
-                "Room": "PSC-212",
-                "Name": "Peter W. Stott Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686762,
-                    45.510916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Center for Electron Microscopy and Nanofabrication",
-                "BLDG_AIM": "B0003",
-                "Abbrev": "SB1",
-                "Room": "SB1-22",
-                "Name": "Science Building One"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686025,
-                    45.513699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Alumni Relations",
-                "BLDG_AIM": "B0099",
-                "Abbrev": "SBH",
-                "Room": "SBH-100",
-                "Name": "Simon Benson House"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68535,
-                    45.512296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Institute for Natural Resources",
-                "BLDG_AIM": "B0041A",
-                "Abbrev": "SEC",
-                "Room": "SEC-140",
-                "Name": "Science and Education Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682707,
-                    45.507738
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Little Vikings Childcare Center",
-                "BLDG_AIM": "B0042",
-                "Abbrev": "SEH",
-                "Room": "SEH-101",
-                "Name": "Stephen Epler Residence Hall"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.688006,
-                    45.512848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Campus Public Safety",
-                "BLDG_AIM": "B0250",
-                "Abbrev": "CPS",
-                "Room": "Suite 100",
-                "Name": "Campus Public Safety"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.683165,
-                    45.512124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of Architecture",
-                "BLDG_AIM": "B0025",
-                "Abbrev": "SH",
-                "Room": "SH-235",
-                "Name": "Shattuck Hall and Annex"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684981,
-                    45.510499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "College of Liberal Arts and Sciences Advising Office",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-M305",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Conferencing and Events",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-435",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Dean of Student Life",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-433",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Disability Resource Center",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-116",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Diversity and Multicultural Student Services",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-425",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "La Casa Latina",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-229",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Multicultural Center",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-228",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Office of Academic Innovation",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-M209",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Queer Resource Center",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-458",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Resource Center for Students with Children",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-462",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Student Activities and Leadership",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-119",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Student Media",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-Sub-Basement",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Student Legal Services",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-M343",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "TRiO Student Support Services",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-425",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "ASPSU The Children's Center",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-126",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "OIT User Support Services",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-18",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Veterans Resource Center",
-                "BLDG_AIM": "B0018A",
-                "Abbrev": "SMSU",
-                "Room": "SMSU-401",
-                "Name": "Smith Memorial Student Union"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.684121,
-                    45.511697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Biology",
-                "BLDG_AIM": "B0005",
-                "Abbrev": "SRTC",
-                "Room": "SRTC-246",
-                "Name": "Science Research and Teaching Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686307,
-                    45.513135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Chemistry  ",
-                "BLDG_AIM": "B0005",
-                "Abbrev": "SRTC",
-                "Room": "SRTC-262",
-                "Name": "Science Research and Teaching Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686307,
-                    45.513135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Physics",
-                "BLDG_AIM": "B0005",
-                "Abbrev": "SRTC",
-                "Room": "SRTC-134",
-                "Name": "Science Research and Teaching Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686307,
-                    45.513135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of the Environment",
-                "BLDG_AIM": "B0005",
-                "Abbrev": "SRTC",
-                "Room": "SRTC-218",
-                "Name": "Science Research and Teaching Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686307,
-                    45.513135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Environmental Science Mangement",
-                "BLDG_AIM": "B0005",
-                "Abbrev": "SRTC",
-                "Room": "SRTC-218",
-                "Name": "Science Research and Teaching Center"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.686307,
-                    45.513135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Applied Linguistics",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-335",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Dental Services",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-309",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Department of Communications",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-440",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Health Promotoion and Education",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-310",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Intensive English Language Program",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-400",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Judaic Studies",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-465",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Student Health Services",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-200",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Counseling Services",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-200",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Testing Center",
-                "BLDG_AIM": "B0200A",
-                "Abbrev": "UCB",
-                "Room": "UCB-340",
-                "Name": "University Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682666,
-                    45.510688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "University Honors College",
-                "BLDG_AIM": "B0019",
-                "Abbrev": "UH",
-                "Room": "UH-100",
-                "Name": "University Honors"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68739,
-                    45.513969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "College of Urban and Public Affairs",
-                "BLDG_AIM": "B0037",
-                "Abbrev": "URBN",
-                "Room": "URBN-750",
-                "Name": "Urban Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Criminology and Criminal Justice",
-                "BLDG_AIM": "B0037",
-                "Abbrev": "URBN",
-                "Room": "URBN-550",
-                "Name": "Urban Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Political Science",
-                "BLDG_AIM": "B0037",
-                "Abbrev": "URBN",
-                "Room": "URBN-650",
-                "Name": "Urban Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Public Administration ",
-                "BLDG_AIM": "B0037",
-                "Abbrev": "URBN",
-                "Room": "URBN-650",
-                "Name": "Urban Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Nohad Toulan School of Urban Studies and Planning",
-                "BLDG_AIM": "B0037",
-                "Abbrev": "URBN",
-                "Room": "URBN-350",
-                "Name": "Urban Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "PSU Bookstore",
-                "BLDG_AIM": "B0037",
-                "Abbrev": "URBN",
-                "Room": "URBN-",
-                "Name": "Urban Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "School of Community Health",
-                "BLDG_AIM": "B0038",
-                "Abbrev": "URBN",
-                "Room": "URBN-450",
-                "Name": "Urban Center Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.681043,
-                    45.509008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Advising and Career Services",
-                "BLDG_AIM": "B0006B",
-                "Abbrev": "USB",
-                "Room": "USB-402",
-                "Name": "University Services Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682786,
-                    45.511988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Capital Projects and Construction",
-                "BLDG_AIM": "B0006B",
-                "Abbrev": "USB",
-                "Room": "USB-302",
-                "Name": "University Services Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682786,
-                    45.511988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Environmental Health and Safety",
-                "BLDG_AIM": "B0006B",
-                "Abbrev": "USB",
-                "Room": "USB-202",
-                "Name": "University Services Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682786,
-                    45.511988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Facilities and Property Management",
-                "BLDG_AIM": "B0006B",
-                "Abbrev": "USB",
-                "Room": "USB-202",
-                "Name": "University Services Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682786,
-                    45.511988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Materials Management Services",
-                "BLDG_AIM": "B0006B",
-                "Abbrev": "USB",
-                "Room": "USB-114",
-                "Name": "University Services Building"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682786,
-                    45.511988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Guard Officer Leadership Development",
-                "BLDG_AIM": "B0251",
-                "Abbrev": "UTS",
-                "Room": "UTS-204",
-                "Name": "University Technology Services"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.682329,
-                    45.507839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Schoool of Gender, Race, and Nations",
-                "BLDG_AIM": "B0028",
-                "Abbrev": "PKM",
-                "Room": "PKM-150",
-                "Name": "Parkmill"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68486,
-                    45.51339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Black Studies ",
-                "BLDG_AIM": "B0028",
-                "Abbrev": "PKM",
-                "Room": "PKM-150",
-                "Name": "Parkmill"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68486,
-                    45.51339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Chicano Latino Studies",
-                "BLDG_AIM": "B0028",
-                "Abbrev": "PKM",
-                "Room": "PKM-150",
-                "Name": "Parkmill"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68486,
-                    45.51339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Indigenous Nations Studies ",
-                "BLDG_AIM": "B0028",
-                "Abbrev": "PKM",
-                "Room": "PKM-150",
-                "Name": "Parkmill"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68486,
-                    45.51339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Office of Graduate Studies",
-                "BLDG_AIM": "B0028",
-                "Abbrev": "PKM",
-                "Room": "PKM-184",
-                "Name": "Parkmill"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68486,
-                    45.51339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Department": "Women, Gender and Sexuality Studies",
-                "BLDG_AIM": "B0028",
-                "Abbrev": "PKM",
-                "Room": "PKM-150",
-                "Name": "Parkmill"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68486,
-                    45.51339
-                ]
-            }
-        }
-    ],
-    "name": "Generalize"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Art and Design",
+        "BLDG_AIM": "B0039A",
+        "Abbrev": "AB",
+        "Room": "AB-110",
+        "Name": "Art Building & Annex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682718,
+          45.508624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Social Work",
+        "BLDG_AIM": "B0253A",
+        "Abbrev": "ASRC",
+        "Room": "ASRC-600",
+        "Name": "Academic and Student Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242,
+          45.511212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Transportation and Parking Services",
+        "BLDG_AIM": "B0253A",
+        "Abbrev": "ASRC",
+        "Room": "ASRC-145",
+        "Name": "Academic and Student Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242,
+          45.511212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Campus Recreation",
+        "BLDG_AIM": "B0253A",
+        "Abbrev": "ASRC",
+        "Room": "ASRC-210",
+        "Name": "Academic and Student Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242,
+          45.511212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Bike Hub",
+        "BLDG_AIM": "B0253A",
+        "Abbrev": "ASRC",
+        "Room": "ASRC-155",
+        "Name": "Academic and Student Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242,
+          45.511212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Outdoor Program",
+        "BLDG_AIM": "B0253A",
+        "Abbrev": "ASRC",
+        "Room": "ASRC-180",
+        "Name": "Academic and Student Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242,
+          45.511212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Viking Welcome Center",
+        "BLDG_AIM": "B0253A",
+        "Abbrev": "ASRC",
+        "Room": "ASRC-101",
+        "Name": "Academic and Student Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242,
+          45.511212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Business Administration",
+        "BLDG_AIM": "B0009",
+        "Abbrev": "KMC",
+        "Room": "KMC-650",
+        "Name": "Karl Miller Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683253,
+          45.511379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "University Housing & Residence Life Offices",
+        "BLDG_AIM": "B0254",
+        "Abbrev": "BWDY",
+        "Room": "BWDY-210",
+        "Name": "Broadway Residence Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684407,
+          45.509583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Anthropology",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-141",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "ReUse Room",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-180",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "College of Liberal Arts and Sciences - Dean's Office",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-341",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Economics",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-241",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "History",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-441",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Psychology",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-317",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Geography",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-424",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Geology",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-17",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Sociology",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-217",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "The Writing Center",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-188",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "University Studies",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-141",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Vice President of Enrollment Management and Student Affairs",
+        "BLDG_AIM": "B0015",
+        "Abbrev": "CH",
+        "Room": "CH-345",
+        "Name": "Cramer Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683998,
+          45.512607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "",
+        "BLDG_AIM": "B0263",
+        "Abbrev": "CLSB",
+        "Room": "",
+        "Name": "Collaborative Life Sciences Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67147,
+          45.5034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Civil and Environmental Engineering",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "EB",
+        "Room": "EB-200",
+        "Name": "Engineering Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Maseeh College of Engineering and Computer Science -- Dean's Office",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "EB",
+        "Room": "EB-500",
+        "Name": "Engineering Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Mechanical and Materials Engineering",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "EB",
+        "Room": "EB-400",
+        "Name": "Engineering Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Institute for Asian Studies",
+        "BLDG_AIM": "",
+        "Abbrev": "KMC",
+        "Room": "KMC-660",
+        "Name": "Karl Miller Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683253,
+          45.511379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Middle Eastern Studies Center",
+        "BLDG_AIM": "",
+        "Abbrev": "KMC",
+        "Room": "KMC-660",
+        "Name": "Karl Miller Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683253,
+          45.511379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Office of International Affairs",
+        "BLDG_AIM": "",
+        "Abbrev": "KMC",
+        "Room": "",
+        "Name": "Karl Miller Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683253,
+          45.511379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Waseda Transnational Program ",
+        "BLDG_AIM": "",
+        "Abbrev": "KMC",
+        "Room": "",
+        "Name": "Karl Miller Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683253,
+          45.511379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Asynchronous Research Center",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "FAB-105",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Center for Science Education",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "FAB-175",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Computer Science",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "FAB-120",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Electrical and Computer Engineering",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "FAB-160",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Graduate School of Education",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "FAB-200",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Engineering & Technology Management",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "FAB-50-02",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Transportation Research and Education Consortium",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "FAB-175",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "System Science",
+        "BLDG_AIM": "B0123",
+        "Abbrev": "HAR",
+        "Room": "HAR-100",
+        "Name": "Harder House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685085,
+          45.513826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Helen Gordon Child Development Center",
+        "BLDG_AIM": "B0013",
+        "Abbrev": "HGCDC",
+        "Room": "HGCDC-100",
+        "Name": "Helen Gordon Child Development Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.687991,
+          45.51452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "College of the Arts -- Dean's Office",
+        "BLDG_AIM": "B0001",
+        "Abbrev": "LH",
+        "Room": "LH-349",
+        "Name": "Lincoln Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683572,
+          45.513172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Music",
+        "BLDG_AIM": "B0001",
+        "Abbrev": "LH",
+        "Room": "LH-231",
+        "Name": "Lincoln Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683572,
+          45.513172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Theatre and Film",
+        "BLDG_AIM": "B0001",
+        "Abbrev": "LH",
+        "Room": "LH-127",
+        "Name": "Lincoln Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683572,
+          45.513172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Campus Planning Office",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-340",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Campus Sustainability Office",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-122",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Center for Improvement of Child and Family Services",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-400",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Center for Interdisciplinary Mentoring Research",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-900",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Community Environmental Services",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-128",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Finance and Accounting Services Team",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-260",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "General Counsel",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-850",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Global Diversity and Inclusion",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-830",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Human Resource center",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-518",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Institute for Sustainable Solutions",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-110",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Office of Institutional Research and Planning",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-385",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Office of the President",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-850",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Provost Office",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-650",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "PSU Foundation",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-730",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Reclaiming Futures",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-380",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Regional Research Institute",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-900",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Research and Strategic Partnerships",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-630",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Survey Research Lab",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-400",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "University Communications",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-810",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Finance and Administration",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "MCB-501",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Library",
+        "BLDG_AIM": "B0022",
+        "Abbrev": "ML",
+        "Room": "ML-100",
+        "Name": "Millar Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686005,
+          45.511522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "The Learning Center",
+        "BLDG_AIM": "B0022",
+        "Abbrev": "ML",
+        "Room": "ML-245",
+        "Name": "Millar Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686005,
+          45.511522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Womens Resource Center",
+        "BLDG_AIM": "B0102",
+        "Abbrev": "MONT",
+        "Room": "MONT-20",
+        "Name": "Montgomery Residence Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685924,
+          45.51244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Native American Student and Community Center",
+        "BLDG_AIM": "B0040",
+        "Abbrev": "NASCC",
+        "Room": "NASCC-140",
+        "Name": "Native American Student and Community Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685705,
+          45.509291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Admissions",
+        "BLDG_AIM": "B0253A",
+        "Abbrev": "ASRC",
+        "Room": "ASRC-101",
+        "Name": "Academic and Student Recreation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242,
+          45.511212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Conflict Resolution",
+        "BLDG_AIM": "B0256",
+        "Abbrev": "MCB",
+        "Room": "",
+        "Name": "Market Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679629,
+          45.512078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "English",
+        "BLDG_AIM": "",
+        "Abbrev": "STFD",
+        "Room": "",
+        "Name": "Stratford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685752,
+          45.51384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Fariborz Masseh Department of Mathematics and Statistics",
+        "BLDG_AIM": "B0023",
+        "Abbrev": "EH",
+        "Room": "",
+        "Name": "East Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684082,
+          45.510486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Financial Aid",
+        "BLDG_AIM": "B0136",
+        "Abbrev": "WH",
+        "Room": "",
+        "Name": "Western Hemlock Trailers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685603,
+          45.509763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Ooligan Press",
+        "BLDG_AIM": "B0137",
+        "Abbrev": "DF",
+        "Room": "",
+        "Name": "Douglas Fir Trailers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686993,
+          45.514239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Philosophy",
+        "BLDG_AIM": "B0036A",
+        "Abbrev": "FAB",
+        "Room": "",
+        "Name": "Fourth Avenue Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680769,
+          45.510067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Portland Center for Public Humanities",
+        "BLDG_AIM": "",
+        "Abbrev": "STFD",
+        "Room": "",
+        "Name": "Stratford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685752,
+          45.51384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Registration and Records",
+        "BLDG_AIM": "B0136",
+        "Abbrev": "WH",
+        "Room": "",
+        "Name": "Western Hemlock Trailers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685603,
+          45.509763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Russian Flagship Center",
+        "BLDG_AIM": "",
+        "Abbrev": "STFD",
+        "Room": "",
+        "Name": "Stratford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685752,
+          45.51384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Speech and Hearing Sciences",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Student Financial Services",
+        "BLDG_AIM": "B0136",
+        "Abbrev": "WH",
+        "Room": "",
+        "Name": "Western Hemlock Trailers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685603,
+          45.509763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "World Languages and Literatures",
+        "BLDG_AIM": "",
+        "Abbrev": "STFD",
+        "Room": "",
+        "Name": "Stratford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685752,
+          45.51384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Athletics",
+        "BLDG_AIM": "B0004",
+        "Abbrev": "PSC",
+        "Room": "PSC-212",
+        "Name": "Peter W. Stott Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686762,
+          45.510916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Physical Education",
+        "BLDG_AIM": "B0004",
+        "Abbrev": "PSC",
+        "Room": "PSC-212",
+        "Name": "Peter W. Stott Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686762,
+          45.510916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Center for Electron Microscopy and Nanofabrication",
+        "BLDG_AIM": "B0003",
+        "Abbrev": "SB1",
+        "Room": "SB1-22",
+        "Name": "Science Building One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686025,
+          45.513699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Alumni Relations",
+        "BLDG_AIM": "B0099",
+        "Abbrev": "SBH",
+        "Room": "SBH-100",
+        "Name": "Simon Benson House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68535,
+          45.512296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Institute for Natural Resources",
+        "BLDG_AIM": "B0041A",
+        "Abbrev": "SEC",
+        "Room": "SEC-140",
+        "Name": "Science and Education Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682707,
+          45.507738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Little Vikings Childcare Center",
+        "BLDG_AIM": "B0042",
+        "Abbrev": "SEH",
+        "Room": "SEH-101",
+        "Name": "Stephen Epler Residence Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.688006,
+          45.512848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Louis Stokes Alliance for Minority Participation",
+        "BLDG_AIM": "B0042",
+        "Abbrev": "SEH",
+        "Room": "SEH-103",
+        "Name": "Stephen Epler Residence Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.688006,
+          45.512848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Campus Public Safety",
+        "BLDG_AIM": "",
+        "Abbrev": "CPS",
+        "Room": "CPS-100",
+        "Name": "Campus Public Safety"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683134,
+          45.512099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Architecture",
+        "BLDG_AIM": "B0025",
+        "Abbrev": "SH",
+        "Room": "SH-235",
+        "Name": "Shattuck Hall and Annex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684981,
+          45.510499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "College of Liberal Arts and Sciences Advising Office",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-M305",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Conferencing and Events",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-435",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Dean of Student Life",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-433",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Disability Resource Center",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-116",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Diversity and Multicultural Student Services",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-425",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "La Casa Latina",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-229",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "McNair Scholars Program",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-M302",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Multicultural Center",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-228",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Office of Academic Innovation",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-M209",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Pacific Islander, Asian & Asian American Student Center",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-235",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Pan-African Commons",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-236",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Queer Resource Center",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-458",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Resource Center for Students with Children",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-462",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Student Activities and Leadership",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-119",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Student Media",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-Sub-Basement",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Student Legal Services",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-M343",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "TRiO Student Support Services",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-425",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "ASPSU The Children's Center",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-126",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "OIT User Support Services",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-18",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Veterans Resource Center",
+        "BLDG_AIM": "B0018A",
+        "Abbrev": "SMSU",
+        "Room": "SMSU-401",
+        "Name": "Smith Memorial Student Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684121,
+          45.511697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Biology",
+        "BLDG_AIM": "B0005",
+        "Abbrev": "SRTC",
+        "Room": "SRTC-246",
+        "Name": "Science Research and Teaching Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686307,
+          45.513135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Chemistry  ",
+        "BLDG_AIM": "B0005",
+        "Abbrev": "SRTC",
+        "Room": "SRTC-262",
+        "Name": "Science Research and Teaching Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686307,
+          45.513135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Physics",
+        "BLDG_AIM": "B0005",
+        "Abbrev": "SRTC",
+        "Room": "SRTC-134",
+        "Name": "Science Research and Teaching Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686307,
+          45.513135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of the Environment",
+        "BLDG_AIM": "B0005",
+        "Abbrev": "SRTC",
+        "Room": "SRTC-218",
+        "Name": "Science Research and Teaching Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686307,
+          45.513135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Environmental Science Management",
+        "BLDG_AIM": "B0005",
+        "Abbrev": "SRTC",
+        "Room": "SRTC-218",
+        "Name": "Science Research and Teaching Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686307,
+          45.513135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Applied Linguistics",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-335",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Dental Services",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-309",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Department of Communications",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-440",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Health Promotion and Education",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-310",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Intensive English Language Program",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-400",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Judaic Studies",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-465",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Student Health Services",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-200",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Counseling Services",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-200",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Testing Center",
+        "BLDG_AIM": "B0200A",
+        "Abbrev": "UCB",
+        "Room": "UCB-340",
+        "Name": "University Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682666,
+          45.510688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "University Honors College",
+        "BLDG_AIM": "B0019",
+        "Abbrev": "UH",
+        "Room": "UH-100",
+        "Name": "University Honors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68739,
+          45.513969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "College of Urban and Public Affairs",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "URBN-750",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Criminology and Criminal Justice",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "URBN-550",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Political Science",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "URBN-650",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Public Administration ",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "URBN-650",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Nohad Toulan School of Urban Studies and Planning",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "URBN-350",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "PSU Bookstore",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "URBN",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681601,
+          45.511818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Community Health",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "URBN-450",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "International & Global Studies",
+        "BLDG_AIM": "B0038",
+        "Abbrev": "URBN",
+        "Room": "",
+        "Name": "Urban Center Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681043,
+          45.509008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Advising and Career Services",
+        "BLDG_AIM": "B0006B",
+        "Abbrev": "USB",
+        "Room": "USB-402",
+        "Name": "University Services Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682786,
+          45.511988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Capital Projects and Construction",
+        "BLDG_AIM": "B0006B",
+        "Abbrev": "USB",
+        "Room": "USB-302",
+        "Name": "University Services Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682786,
+          45.511988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Environmental Health and Safety",
+        "BLDG_AIM": "B0006B",
+        "Abbrev": "USB",
+        "Room": "USB-202",
+        "Name": "University Services Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682786,
+          45.511988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Facilities and Property Management",
+        "BLDG_AIM": "B0006B",
+        "Abbrev": "USB",
+        "Room": "USB-202",
+        "Name": "University Services Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682786,
+          45.511988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Materials Management Services",
+        "BLDG_AIM": "B0006B",
+        "Abbrev": "USB",
+        "Room": "USB-114",
+        "Name": "University Services Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682786,
+          45.511988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Guard Officer Leadership Development",
+        "BLDG_AIM": "B0251",
+        "Abbrev": "UTS",
+        "Room": "UTS-204",
+        "Name": "University Technology Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682329,
+          45.507839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "School of Gender, Race, and Nations",
+        "BLDG_AIM": "",
+        "Abbrev": "PKM",
+        "Room": "PKM-150",
+        "Name": "Parkmill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68486,
+          45.51339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Black Studies ",
+        "BLDG_AIM": "",
+        "Abbrev": "PKM",
+        "Room": "PKM-150",
+        "Name": "Parkmill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68486,
+          45.51339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Chicano Latino Studies",
+        "BLDG_AIM": "",
+        "Abbrev": "PKM",
+        "Room": "PKM-150",
+        "Name": "Parkmill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68486,
+          45.51339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Indigenous Nations Studies ",
+        "BLDG_AIM": "",
+        "Abbrev": "PKM",
+        "Room": "PKM-150",
+        "Name": "Parkmill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68486,
+          45.51339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Office of Graduate Studies",
+        "BLDG_AIM": "",
+        "Abbrev": "PKM",
+        "Room": "PKM-184",
+        "Name": "Parkmill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68486,
+          45.51339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "Women, Gender and Sexuality Studies",
+        "BLDG_AIM": "",
+        "Abbrev": "PKM",
+        "Room": "PKM-150",
+        "Name": "Parkmill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68486,
+          45.51339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "",
+        "BLDG_AIM": "",
+        "Abbrev": "PNT",
+        "Room": "",
+        "Name": "University Pointe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683528,
+          45.50937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Department": "",
+        "BLDG_AIM": "B0135",
+        "Abbrev": "PP",
+        "Room": "",
+        "Name": "Ponderosa Pine Trailers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682195,
+          45.508377
+        ]
+      }
+    }
+  ],
+  "name": "Generalize"
 }

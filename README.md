@@ -1,8 +1,15 @@
 # psu-campus-map
 PSU Campus Map
 
-v1.141
-======
+v1.15
+=====
+* Update tile cache to fix typos and Neuberger Hall Closure.
+* Integrate search function updates with trailers.
+* Update Campus Map URL.
+* General Winter 2018 term updates.
+
+v1.14
+=====
 * Update tile cache for temporary trailers.
 * Update file geojson to show temporary trailers.
 * Add custom popup and geojson for each temporary trailer cluster.
