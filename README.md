@@ -4,7 +4,7 @@ PSU Campus Map
 v1.15
 =====
 * Update tile cache to fix typos and Neuberger Hall Closure.
-* Integrate search function updates with trailers.
+* Integrate search function updates with trailers (Maintain separate layers).
 * Update Campus Map URL.
 * General Winter 2018 term updates.
 
